@@ -17,7 +17,7 @@ torchvision==0.19.0
 python main.py -s [subject name] -i [integration method]
 ```
 - subject name: {yaleB01, yaleB02, yaleB05, yaleB07}
-- integration method: {row, colimn, average, random}
+- integration method: {row, column, average, random}
 
 ### Change Patch size, Number of iterations, Threshold
 change image_sticher.py 

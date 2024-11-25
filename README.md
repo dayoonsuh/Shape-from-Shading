@@ -3,12 +3,6 @@ Shape from shading involves reconstructing the 3D shape of an object from a sing
 ![image](https://github.com/user-attachments/assets/cd8e88d1-a7c6-446e-a7e6-1a2e25179884)
 ![image](https://github.com/user-attachments/assets/ca53c720-44da-4dc9-829f-f297540cff6b)
 
-
-![image](https://github.com/user-attachments/assets/cf18945a-da35-469d-a689-53032130ec84)
-
-![image](https://github.com/user-attachments/assets/75f6573b-00c7-41a3-bcdc-f4e547ffd30a)
-
-
 ## Requirements
 ```python
 matplotlib==3.8.4

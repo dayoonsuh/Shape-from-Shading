@@ -1,6 +1,8 @@
 # Photometric Stereo
 Shape from shading involves reconstructing the 3D shape of an object from a single 2D image using variations in shading. The task leverages the relationship between surface orientation, light source direction, and image intensity to estimate the surface normals and, ultimately, the object's geometry.
 ![image](https://github.com/user-attachments/assets/cd8e88d1-a7c6-446e-a7e6-1a2e25179884)
+![image](https://github.com/user-attachments/assets/6ab57e42-5f8f-4b63-a10b-f58b6f35f300)
+
 ![image](https://github.com/user-attachments/assets/cf18945a-da35-469d-a689-53032130ec84)
 
 ![image](https://github.com/user-attachments/assets/75f6573b-00c7-41a3-bcdc-f4e547ffd30a)
